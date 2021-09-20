@@ -18,7 +18,6 @@
 <body>
 <div>
     <h1> Home Page </h1>
-    
   Home | <a href="{{url('/profile')}}">Profile</a> | <a href="{{url('/Online')}}">Online</a>
 </div>
 </body>
