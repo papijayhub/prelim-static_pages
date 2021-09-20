@@ -7,7 +7,8 @@
     <title>jyclmba | Online</title>
     <link rel="stylesheet" href="{{asset('css/bootstrap.css')}}">
     <style>
-        body{background-color: #bce4ec;}
+        body{background-color: #bce4ec;
+            }
         div{
             margin-top:15%;
             text-align:center;

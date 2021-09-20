@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{asset('css/bootstrap.css')}}">
     <style>
         body{background-color: powderblue;
-        align:center;}
+        }
         div{
             margin-top:15%;
             text-align:center;

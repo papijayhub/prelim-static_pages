@@ -7,7 +7,8 @@
     <title>jyclmbprelim | Profile</title>
     <link rel="stylesheet" href="{{asset('css/bootstrap.css')}}">
     <style>
-        body{background-color: lightblue;}
+        body{background-color: lightblue;
+            }
         div{
             margin-top:15%;
             text-align:center;
